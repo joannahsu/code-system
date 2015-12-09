@@ -1,4 +1,4 @@
-# code-system
+# recipe-list
 <p>A simple and nutritious breakfast food, made with matcha tea and yogurt. Blend all the ingredients below in a blender and drink!</p>
 <h2>Ingredients</h2>
 <ul>
